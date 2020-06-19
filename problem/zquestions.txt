@@ -1,0 +1,35 @@
+Implement the search filter to find the answers to the following questions. Once you have the answers, convert your answers to letters of the alphabet and match your answers to each blank to unveil the hidden message!
+
+(e.g. if for question 1, you got an answer of 18, then for any blanks that have 1, fill it in with 'r' since 'r' is the 18th letter of the alphabet)
+
+---------------------------------------
+
+1. How many books have the tag 'fantasy'?
+2. How many books were written by the author 'Neil' or 'Shannon'?
+3. How many books have the tag 'middle grade'?
+4. How many books have the tag 'discrimination'?
+5. How many books have 220-375 pages?
+6. How many books were published in 2000-2020?
+7. How many books have the tag 'young adult'?
+8. How many books' titles include the word 'the'?
+9. How many books have the tag 'black lives matter'?
+10. How many books have 300-400 pages?
+11. How many books have the tag 'series'?
+12. How many books have the tag 'international' or 'family'?
+13. How many books' titles include the letter 'm'?
+14. How many books have the tag 'fiction'?
+15. How many books were published in 1975-2010?
+16. How many books' titles include the word 'air'?
+
+
+
+Hidden Message:
+
+  ___ ___ ___ ___ ___ ___     ___ ___ 
+   9  13   2   7  10   3       7   8
+
+  ___ ___ ___ ___ ___ ' ___     ___ ___ ___ ___ ___ ___ ___ ___
+  14   4   2  16   6     8      11  16  10   3   5  13  12   9
+
+  ___ ___     ___ ___ ___ ___ ___ ___ ___ ___ ___ ___
+  13  12       9   1  14  16  14   7  15   7  14   6
