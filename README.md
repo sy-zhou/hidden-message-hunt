@@ -4,7 +4,7 @@ A fun activity for beginner coders to learn about JavaScript objects, arrays, an
 
 The problem files and list of questions can be found in the `problem` folder. The solution code and hidden message are in the `solution` folder.
 
-<!-- ![screenshot](screenshot.png) -->
+![screenshot](https://user-images.githubusercontent.com/46634815/85091064-9c232500-b1b4-11ea-98bd-87315025a4d7.png)
 
 
 #### Learning Goals
