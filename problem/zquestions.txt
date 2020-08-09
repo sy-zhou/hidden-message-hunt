@@ -13,7 +13,7 @@ Implement the search filter to find the answers to the following questions. Once
 7. How many books have the tag 'young adult'?
 8. How many books' titles include the word 'the'?
 9. How many books have the tag 'black lives matter'?
-10. How many books have 300-400 pages?
+10. How many books have 300-420 pages?
 11. How many books have the tag 'series'?
 12. How many books have the tag 'international' or 'family'?
 13. How many books' titles include the letter 'm'?
@@ -29,7 +29,7 @@ Hidden Message:
    9  13   2   7  10   3       7   8
 
   ___ ___ ___ ___ ___ ' ___     ___ ___ ___ ___ ___ ___ ___ ___
-  14   4   2  16   6     8      11  16  10   3   5  13  12   9
+  14  13   2  16   6     8      11  16  10   3   5  16   3   4
 
   ___ ___     ___ ___ ___ ___ ___ ___ ___ ___ ___ ___
-  13  12       9   1  14  16  14   7  15   7  14   6
+  13  12       9   1   4  16  14   7  15   7  14   6
